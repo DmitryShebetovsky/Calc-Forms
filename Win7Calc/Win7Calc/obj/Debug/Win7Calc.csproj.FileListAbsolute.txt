@@ -1,0 +1,18 @@
+c:\users\дима\documents\visual studio 2017\Projects\Win7Calc\Win7Calc\obj\Debug\Win7Calc.csprojResolveAssemblyReference.cache
+c:\users\дима\documents\visual studio 2017\Projects\Win7Calc\Win7Calc\obj\Debug\Win7Calc.Properties.Resources.resources
+c:\users\дима\documents\visual studio 2017\Projects\Win7Calc\Win7Calc\obj\Debug\Win7Calc.csproj.GenerateResource.Cache
+c:\users\дима\documents\visual studio 2017\Projects\Win7Calc\Win7Calc\bin\Debug\Win7Calc.exe.config
+c:\users\дима\documents\visual studio 2017\Projects\Win7Calc\Win7Calc\bin\Debug\Win7Calc.exe
+c:\users\дима\documents\visual studio 2017\Projects\Win7Calc\Win7Calc\bin\Debug\Win7Calc.pdb
+c:\users\дима\documents\visual studio 2017\Projects\Win7Calc\Win7Calc\obj\Debug\Win7Calc.exe
+c:\users\дима\documents\visual studio 2017\Projects\Win7Calc\Win7Calc\obj\Debug\Win7Calc.pdb
+c:\users\дима\documents\visual studio 2017\Projects\Win7Calc\Win7Calc\obj\Debug\Calculator.Calc.resources
+C:\Users\Дима\Desktop\Win7Calc\Win7Calc\obj\Debug\Win7Calc.csprojResolveAssemblyReference.cache
+C:\Users\Дима\Desktop\Win7Calc\Win7Calc\obj\Debug\Calculator.Calc.resources
+C:\Users\Дима\Desktop\Win7Calc\Win7Calc\obj\Debug\Win7Calc.Properties.Resources.resources
+C:\Users\Дима\Desktop\Win7Calc\Win7Calc\obj\Debug\Win7Calc.csproj.GenerateResource.Cache
+C:\Users\Дима\Desktop\Win7Calc\Win7Calc\obj\Debug\Win7Calc.exe
+C:\Users\Дима\Desktop\Win7Calc\Win7Calc\obj\Debug\Win7Calc.pdb
+C:\Users\Дима\Desktop\Win7Calc\Win7Calc\bin\Debug\Win7Calc.exe.config
+C:\Users\Дима\Desktop\Win7Calc\Win7Calc\bin\Debug\Win7Calc.exe
+C:\Users\Дима\Desktop\Win7Calc\Win7Calc\bin\Debug\Win7Calc.pdb
